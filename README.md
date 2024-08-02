@@ -87,7 +87,7 @@ This document provides an overview of the API endpoints available in the Library
 - **500 Internal Server Error**: Returned when an unexpected error occurs on the server.
 
 ## Authentication
-- The API currently implements basic authentication using username and password. Future versions may include user authentication using JWT and authorization.
+- The API currently doesn't implement authentication . Future versions may include user authentication using JWT and authorization.
 
 ## Project Installation
 
